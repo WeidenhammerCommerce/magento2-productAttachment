@@ -1,3 +1,7 @@
+### Forked from https://github.com/mageprince/magento2-productAttachment
+
+## -------- Original Banner Slider Readme -------
+
 # Magento2 Product Attachment
 
 The Product Attachments extension for Magento 2 equips product pages with a special attachments block where you can upload numerous documents such as user guides, extra images, pdf, certificates, licenses and many others. 
