@@ -1,5 +1,5 @@
 {
-    "name": "mageprince/magento2-productattachment",
+    "name": "hammer/magento2-productattachment",
     "description": "Magento2 Product Attachment Module",
     "homepage": "https://github.com/mageprince/magento2-productAttachment",
     "type": "magento2-module",
